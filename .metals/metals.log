@@ -1,0 +1,23 @@
+[0m2021.09.16 13:14:21 INFO  Started: Metals version 0.10.2 in workspace '/users/adeputy/cs2hw-f21' for client vscode 1.48.1.[0m
+[0m2021.09.16 13:14:22 INFO  time: initialize in 1.18s[0m
+[0m2021.09.16 13:14:23 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.16 13:14:23 WARN  no build tool detected in workspace '/users/adeputy/cs2hw-f21'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.16 13:14:23 WARN  no build target for: /users/adeputy/cs2hw-f21/hw1/Vec2.scala[0m
+Sep 16, 2021 1:14:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.09.16 13:14:25 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+[0m2021.09.16 13:14:27 INFO  time: code lens generation in 3.56s[0m
+[0m2021.09.16 13:14:32 WARN  no build tool detected in workspace '/users/adeputy/cs2hw-f21'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.16 13:14:36 WARN  no build tool detected in workspace '/users/adeputy/cs2hw-f21'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.16 13:14:36 WARN  no build tool detected in workspace '/users/adeputy/cs2hw-f21'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.16 13:14:36 WARN  no build tool detected in workspace '/users/adeputy/cs2hw-f21'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.16 13:14:47 WARN  no build tool detected in workspace '/users/adeputy/cs2hw-f21'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.16 13:14:47 WARN  no build tool detected in workspace '/users/adeputy/cs2hw-f21'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.16 13:14:47 WARN  no build tool detected in workspace '/users/adeputy/cs2hw-f21'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.16 13:15:50 WARN  no build target for: /users/adeputy/cs2hw-f21/hw1/Vec2.scala[0m
+[0m2021.09.16 13:17:34 WARN  no build target for: /users/adeputy/cs2hw-f21/hw1/main/Vec2.scala[0m
+[0m2021.09.16 13:17:45 WARN  no build target for: /users/adeputy/cs2hw-f21/hw1/main/Vec2.scala[0m
+[0m2021.09.16 13:18:03 WARN  no build target for: /users/adeputy/cs2hw-f21/hw1/Volume.scala[0m
+[0m2021.09.16 13:18:19 WARN  no build target for: /users/adeputy/cs2hw-f21/hw1/main/Volume.scala[0m
+[0m2021.09.16 13:18:35 WARN  no build target for: /users/adeputy/cs2hw-f21/hw1/main/Volume.scala[0m
+[0m2021.09.16 13:22:06 WARN  no build target for: /users/adeputy/cs2hw-f21/hw1/main/Vec2.scala[0m
